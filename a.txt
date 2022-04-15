@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 hello world!!
 
-you are handsome
+you are handsome and cool
 
 =======
 hello world ！！
