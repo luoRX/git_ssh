@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hello world!!
 
 you are handsome
 
+=======
+hello world ！！
+
+bitch!!
+>>>>>>> 810d165036e1441d3d2ca7b21dc892e96be8f2cf
