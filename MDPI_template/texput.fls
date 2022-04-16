@@ -1,0 +1,5 @@
+PWD c:/Users/ASUS/Desktop/ÑĞÒ»/±ßÔµ¼ÆËã/Ğ¡ÂÛÎÄ/MDPI_template
+INPUT e:/LaTeX/texlive/2021/texmf.cnf
+INPUT e:/LaTeX/texlive/2021/texmf-dist/web2c/texmf.cnf
+INPUT e:/LaTeX/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
+OUTPUT c:/Users/ASUS/Desktop/ç ”ä¸€/è¾¹ç¼˜è®¡ç®—/å°è®ºæ–‡/MDPI_template/texput.log
